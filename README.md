@@ -1,0 +1,2 @@
+# Avem33-PUV
+ A library to parse PUV 3D models from [Avem33](https://store.steampowered.com/app/673900). PUV files are contained within winavem_assets.pak, and must be extracted by [Avem33-Unpacker](https://github.com/MichaelHinrichs/Avem33-Unpacker).
